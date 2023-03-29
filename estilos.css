@@ -1,0 +1,38 @@
+.qwe{
+    text-align: center;
+    padding-bottom: 10px;
+    font-family: cursive;
+    font-size: 350%;
+    color: #e01276;
+
+  }
+  .calc{
+    width: 20%;
+    padding-bottom: 10px;
+  }
+  
+  input[type="number"] {
+    width: 150px;
+  }
+  button {
+    background-color: #a74caf;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #a74caf;
+  }
+  .pr{
+    text-align: center;
+    font-weight: bold;
+    font-size: 150%;
+    margin: 8px;
+  }
